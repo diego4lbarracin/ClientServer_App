@@ -1,2 +1,2 @@
 # ClientServer_App
-Client-Server application that uses servlets.
+Client-Server web application that uses servlets.
