@@ -26,7 +26,7 @@
         <h2>Registrar cliente</h2>
         <p>Ingresa los datos:</p>
 
-        <form id="form-registro" action="ServerServlet" method="POST">
+        <form id="form-registro" action="ClienteServlet" method="POST">
             <label for="tipo-documento">Tipo de Documento</label>
             <select id="tipo-documento" name="tipo-documento" required>
                 <option value="disabled selected" >Selecciona una opción</option>
